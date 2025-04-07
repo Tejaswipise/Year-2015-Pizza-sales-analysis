@@ -64,15 +64,22 @@ Analyze Pizza Sales Data of year 2015 to find trends and patterns to provide ins
 
 ### 8. Dashboard Visuals
 #### Complete Dashboard Overview 
-![Home Page](images/home-page.png)
+![Home Page](home-page.png)
+![Pizza Sales Report Home Page](https://github.com/user-attachments/assets/0d845cd2-33a8-4710-bff8-56ed5fbe76d1)
+
 ![Next Page](images/next-page.png)
+![Pizza sales Report Next Page](https://github.com/user-attachments/assets/df186f80-88ce-438e-a4d6-da72e357e04e)
 
 #### Visuals
 ##### 1. Top 10 Best sellings and Least sellings
 ![Top 10 Best selliings](images/top-10-best-sellings.png)
+![Pizza sales top-10-best-sellings](https://github.com/user-attachments/assets/4d392271-caec-4f6f-8e97-f20b26f5f908)
+
 **Insight**: The Thai chicken Pizza contributes most to the revenue
 
 ![Top 10 Least sellings](images/top-10-least-sellings.png)
+![Pizza sales top-10-least-sellings](https://github.com/user-attachments/assets/362d214c-cb74-45e9-a914-c7e5d83e28fd)
+
 **Insight**: The Brie Carre Pizza contributes the least to revenue
 
 ##### 2. Percentage of sales by Pizza Category and it's sizes
