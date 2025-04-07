@@ -62,6 +62,22 @@ Analyze Pizza Sales Data of year 2015 to find trends and patterns to provide ins
 - **Bar Chart**- Gross profit By Pizza Size.
 - **Bar Chart**- Gross profit by Pizza category.
 
+### 8. Dashboard Visuals
+#### Complete Dashboard Overview 
+![Home Page](images/dashboard-overview-home-page.png)
+![Next Page](images/dashboard-overview-next-page.png)
+
+#### Visuals
+##### 1. Top 10 Best sellings and Least sellings
+![Top 10 Best selliings](images/top-10-best-sellings.png)
+**Insight**: The Thai chicken Pizza contributes most to the revenue
+
+![Top 10 Least sellings](images/top-10-least-sellings.png)
+**Insight**: The Brie Carre Pizza contributes the least to revenue
+
+##### 2. Percentage of sales by Pizza Category and it's sizes
+
+
 ### 8. Key Insights
 - The Thai Chicken Pizza is Sold the highest and The Brie Carre Pizza has the lowest sellings.
 - The Large Size pizza contributes most to sales, gross profit and orders and XXL pizza is the least to contribute.
