@@ -8,7 +8,7 @@
 - [Tools Used](#4-tools-used)
 - [Data Cleaning Steps](#5-data-cleaning-steps)
 - [SQL Insights](#6-sql-insights)
-- [Visualizations](#7-visualizations)
+- [Visualizations](#7-visualizations-(power-bi))
 - [Key Insights](#8-key-insights)
 - [Conclusion](#9-conclusion)
 - [Recommendations](#10-recommendations)
