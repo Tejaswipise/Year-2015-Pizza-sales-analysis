@@ -64,8 +64,8 @@ Analyze Pizza Sales Data of year 2015 to find trends and patterns to provide ins
 
 ### 8. Dashboard Visuals
 #### Complete Dashboard Overview 
-![Home Page](images/dashboard-overview-home-page.png)
-![Next Page](images/dashboard-overview-next-page.png)
+![Home Page](images/home-page.png)
+![Next Page](images/next-page.png)
 
 #### Visuals
 ##### 1. Top 10 Best sellings and Least sellings
