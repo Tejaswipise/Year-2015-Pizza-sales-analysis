@@ -1,7 +1,5 @@
 # Year-2015 Pizza Sales Analysis
 ## Table of Contents
--## Table of Contents
-
 - [Project Objective](#1-project-objective)
 - [Dataset Source](#2-dataset-source)
 - [Problem Statements](#3-problem-statements)
@@ -12,6 +10,8 @@
 - [Key Insights](#8-key-insights)
 - [Conclusion](#9-conclusion)
 - [Recommendations](#10-recommendations)
+
+  
 ### 1. Project Objective
 Analyze Pizza Sales Data of year 2015 to find trends and patterns to provide insights for content strategy decisions.
 
