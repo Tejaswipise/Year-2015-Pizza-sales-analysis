@@ -7,9 +7,10 @@
 - [Data Cleaning Steps](#5-data-cleaning-steps)
 - [SQL Insights](#6-sql-insights)
 - [Visualizations](#7-visualizations-power-bi)
-- [Key Insights](#8-key-insights)
-- [Conclusion](#9-conclusion)
-- [Recommendations](#10-recommendations)
+- [Dashboard Visuals](#8-dashboard-visuals)
+- [Key Insights](#9-key-insights)
+- [Conclusion](#10-conclusion)
+- [Recommendations](#11-recommendations)
 
   
 ### 1. Project Objective
@@ -67,11 +68,23 @@ Analyze Pizza Sales Data of year 2015 to find trends and patterns to provide ins
 ![Home Page](home-page.png)
 ![Pizza Sales Report Home Page](https://github.com/user-attachments/assets/0d845cd2-33a8-4710-bff8-56ed5fbe76d1)
 
-![Next Page](images/next-page.png)
+![Next Page](next-page.png)
 ![Pizza sales Report Next Page](https://github.com/user-attachments/assets/df186f80-88ce-438e-a4d6-da72e357e04e)
 
-#### Visuals
-##### 1. Top 10 Best sellings and Least sellings
+### 9. Visuals
+#### 1. Key Performance Metrics(KPI Cards)
+![Pizza sales cards(new)](https://github.com/user-attachments/assets/944e56db-7c06-471a-8b39-9e344ee2f968)
+
+**Insight**: 
+- Total Revenue: 817.86K - Overall earnings for the year
+- Average Order Value: 38.31 - Shows how much customer spend per order
+- Total Orders: 21K - Shows sales value
+- Average Orders Per Day: 3.05K - Shows the customer spending behaviour per day
+- Total Pizzas Sold: 50K - Total quantity of pizzas sold
+- Average Pizzas Per Order: 2.32 - Most customers by atmost 3 pizzas per order
+
+
+#### 2. Top 10 Best sellings and Least sellings
 ![Top 10 Best selliings](images/top-10-best-sellings.png)
 ![Pizza sales top-10-best-sellings](https://github.com/user-attachments/assets/4d392271-caec-4f6f-8e97-f20b26f5f908)
 
@@ -82,10 +95,47 @@ Analyze Pizza Sales Data of year 2015 to find trends and patterns to provide ins
 
 **Insight**: The Brie Carre Pizza contributes the least to revenue
 
-##### 2. Percentage of sales by Pizza Category and it's sizes
+#### 3. Percentage of sales by Pizza Category and it's sizes
+![Pizza sales % sales by pizza category](https://github.com/user-attachments/assets/6b100dc8-bb03-41c6-8cfa-f914c2b13131)  ![Pizza sales % sales by pizza size](https://github.com/user-attachments/assets/23abd534-47af-4f42-8b6d-33f2e1b7e2f5)
 
+**Insight**: Calssic Category Pizza has highest percentage of sales and in sizes the Larger size has the highest percentage of sales
 
-### 8. Key Insights
+#### 4. Total Pizzas Sold by Pizza category
+![Pizza sales totals pizza sold by pizza category](https://github.com/user-attachments/assets/b8cebcd9-f136-4fa9-8d6e-26a3f792ea10)
+
+**Insight**: The classic Pizza is on top with 14888 number of total pizzas sold of classic category
+
+#### 5. Peak Sales by Hour
+![Pizza sales peak sales by hour](https://github.com/user-attachments/assets/6af030e7-35d7-4249-9283-8885c8d46029)
+
+**Insight**: Between 12PM to 1PM the sals and revenue has peaked
+
+#### 6. Peak Sales by Month
+![Pizza sales peak sales by month](https://github.com/user-attachments/assets/701e7b3b-feda-4bb7-93d9-a520497cfc64)
+
+**Insight**: July is the month with highest sales and october with the lowest sales
+
+#### 7. Order Frequency by day of week
+![Pizza sales order frequency by day of week](https://github.com/user-attachments/assets/92eb63b4-d6ae-42f9-81af-7d61117799c3)
+
+ **Insight**: Friday has the maximum orders
+
+#### 8. Gross profit by Pizza Size
+![Pizza sales gross profit by pizza](https://github.com/user-attachments/assets/dcf887ff-d324-4d13-82c0-491273c64082)
+
+**Insight**: Larger size pizza contributes the most to the gross profit
+
+#### 9. Gross profit by pizza category
+![Pizza sales gross profit by pizza category](https://github.com/user-attachments/assets/46025675-5a79-4638-b23e-c182f7b846a2)
+
+**Insight**: Chicken category has the maximum gross profit
+
+#### 10. Gross Profit and profit percentage Per Pizza 
+![Pizza sales gross profit and profit margin by pizza ](https://github.com/user-attachments/assets/d40c950e-2ea9-41ce-b99c-fd1f16004e2c)
+
+**Insight**: The Big Meat Pizza contributes the maximum to Gross profit as well as to profit margin
+
+### 9. Key Insights
 - The Thai Chicken Pizza is Sold the highest and The Brie Carre Pizza has the lowest sellings.
 - The Large Size pizza contributes most to sales, gross profit and orders and XXL pizza is the least to contribute.
 - The Classic category is the most loved as it contributes the more to orders and chicken category has lowest contribution to order.
@@ -96,10 +146,10 @@ Analyze Pizza Sales Data of year 2015 to find trends and patterns to provide ins
 - July is the month where the orders are at the peak and october is the month having lowest pizza orders.
 - The Hawaiian Pizza and The Thai chicken Pizza are the most frequently together ordered pizzas.
   
-### 9. Conclusion
+### 10. Conclusion
 This analysis reveals strong trends and patterns showing which pizzas or what combination of pizzas are the most loved by customers, which makes good profit to the pizza company based on their sizes, categories. Also shows in which month, day of week, and what hour in a day customers would often buy pizzas.
 
-### 10. Recommendations
+### 11. Recommendations
 - Promote slow moving items by launching targeted deals or combo offers.
 - Launch offers on the most frequently brought combos on fridays/weekends to maximize the revenue.
 - Discontinuing of XXL-size pizza would benefit the company by saving it's cost of production as XXL-sized pizza is making avery small amount of profit.
