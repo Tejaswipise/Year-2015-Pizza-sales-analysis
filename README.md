@@ -8,9 +8,10 @@
 - [SQL Insights](#6-sql-insights)
 - [Visualizations](#7-visualizations-power-bi)
 - [Dashboard Visuals](#8-dashboard-visuals)
-- [Key Insights](#9-key-insights)
-- [Conclusion](#10-conclusion)
-- [Recommendations](#11-recommendations)
+- [Clearer Visuals](#9-visuals)
+- [Key Insights](#10-key-insights)
+- [Conclusion](#11-conclusion)
+- [Recommendations](#12-recommendations)
 
   
 ### 1. Project Objective
@@ -65,10 +66,8 @@ Analyze Pizza Sales Data of year 2015 to find trends and patterns to provide ins
 
 ### 8. Dashboard Visuals
 #### Complete Dashboard Overview 
-![Home Page](home-page.png)
 ![Pizza Sales Report Home Page](https://github.com/user-attachments/assets/0d845cd2-33a8-4710-bff8-56ed5fbe76d1)
 
-![Next Page](next-page.png)
 ![Pizza sales Report Next Page](https://github.com/user-attachments/assets/df186f80-88ce-438e-a4d6-da72e357e04e)
 
 ### 9. Visuals
@@ -135,7 +134,7 @@ Analyze Pizza Sales Data of year 2015 to find trends and patterns to provide ins
 
 **Insight**: The Big Meat Pizza contributes the maximum to Gross profit as well as to profit margin
 
-### 9. Key Insights
+### 10. Key Insights
 - The Thai Chicken Pizza is Sold the highest and The Brie Carre Pizza has the lowest sellings.
 - The Large Size pizza contributes most to sales, gross profit and orders and XXL pizza is the least to contribute.
 - The Classic category is the most loved as it contributes the more to orders and chicken category has lowest contribution to order.
@@ -146,10 +145,10 @@ Analyze Pizza Sales Data of year 2015 to find trends and patterns to provide ins
 - July is the month where the orders are at the peak and october is the month having lowest pizza orders.
 - The Hawaiian Pizza and The Thai chicken Pizza are the most frequently together ordered pizzas.
   
-### 10. Conclusion
+### 11. Conclusion
 This analysis reveals strong trends and patterns showing which pizzas or what combination of pizzas are the most loved by customers, which makes good profit to the pizza company based on their sizes, categories. Also shows in which month, day of week, and what hour in a day customers would often buy pizzas.
 
-### 11. Recommendations
+### 12. Recommendations
 - Promote slow moving items by launching targeted deals or combo offers.
 - Launch offers on the most frequently brought combos on fridays/weekends to maximize the revenue.
 - Discontinuing of XXL-size pizza would benefit the company by saving it's cost of production as XXL-sized pizza is making avery small amount of profit.
