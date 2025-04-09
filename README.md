@@ -40,7 +40,7 @@ Analyze Pizza Sales Data of year 2015 to find trends and patterns to provide ins
 -  Created new columns by extracting 'Month' from `order_date`, `Month_Num` from `Month`, `Day_Num` from `order_day` for analysis.
 
 ### 6. SQL Script
-SQL/.md
+SQL queries and it's insights are available [here](SQL/.md)
 
 ### 7. SQL Insights
 - Sales Performance Analysis(top 10 least and best selling Pizzas)
@@ -62,7 +62,7 @@ SQL/.md
 - **Dount Chart**- Percentage sales by Pizza Category.
 - **Funnel Chart**- Total Pizzas sold by PIzza Category.
 - **Stacked Column Chart**- Order frequency by day of week.
-- **Line and Cllustered Column Chart**- Peak sales by Hours.
+- **Line and Clustered Column Chart**- Peak sales by Hours.
 - **Area Chart**- Peak sales by Month.
 - **Line Chart**- Gross profit and Profit Margin per pizza.
 - **Bar Chart**- Gross profit By Pizza Size.
