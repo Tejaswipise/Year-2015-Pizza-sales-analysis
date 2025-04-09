@@ -66,7 +66,7 @@ Analyze Pizza Sales Data of year 2015 to find trends and patterns to provide ins
 
 ### 8. Dashboard Visuals
 #### Complete Dashboard Overview 
-![Pizza Sales Report Home Page](https://github.com/user-attachments/assets/0d845cd2-33a8-4710-bff8-56ed5fbe76d1)
+![Home Page](https://github.com/user-attachments/assets/a4a1a935-06d5-4c39-9586-ae3f5b9e8e7c)
 
 ![Pizza sales Report Next Page](https://github.com/user-attachments/assets/df186f80-88ce-438e-a4d6-da72e357e04e)
 
@@ -95,7 +95,8 @@ Analyze Pizza Sales Data of year 2015 to find trends and patterns to provide ins
 **Insight**: The Brie Carre Pizza contributes the least to revenue
 
 #### 3. Percentage of sales by Pizza Category and it's sizes
-![Pizza sales % sales by pizza category](https://github.com/user-attachments/assets/6b100dc8-bb03-41c6-8cfa-f914c2b13131)  ![Pizza sales % sales by pizza size](https://github.com/user-attachments/assets/23abd534-47af-4f42-8b6d-33f2e1b7e2f5)
+![Pizza sales % sales by pizza category](https://github.com/user-attachments/assets/6b100dc8-bb03-41c6-8cfa-f914c2b13131)  
+![percentage sales by pizza size](https://github.com/user-attachments/assets/a748c48d-6138-4a7d-8f4b-dbadf57eccce)
 
 **Insight**: Calssic Category Pizza has highest percentage of sales and in sizes the Larger size has the highest percentage of sales
 
