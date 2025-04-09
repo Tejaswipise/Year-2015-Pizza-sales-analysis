@@ -66,7 +66,7 @@ Analyze Pizza Sales Data of year 2015 to find trends and patterns to provide ins
 
 ### 8. Dashboard Visuals
 #### Complete Dashboard Overview 
-![Home Page](https://github.com/user-attachments/assets/a4a1a935-06d5-4c39-9586-ae3f5b9e8e7c)
+![Home Page](https://github.com/user-attachments/assets/ff6e5678-e4fa-45e8-a6f5-f464fa2f85e1)
 
 ![Pizza sales Report Next Page](https://github.com/user-attachments/assets/df186f80-88ce-438e-a4d6-da72e357e04e)
 
